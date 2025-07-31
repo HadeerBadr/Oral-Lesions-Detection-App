@@ -71,7 +71,7 @@ Pillow==9.2.0
 ---
 
 ## 📸 Screenshots
-![Screenshot](oral_img.jpg)
+![Screenshot](oral_imgg.png)
 
 ---
 
